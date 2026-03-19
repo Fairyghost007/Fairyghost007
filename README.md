@@ -1,50 +1,106 @@
-![github-header-image (2)](https://github.com/Fairyghost007/Fairyghost007/assets/135708166/d84d6a36-138f-4c5d-940b-f4dcb9c5a0a9)
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Birane Ndiaye
-=====================================================================================================================================
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Birane%20Ndiaye&fontSize=60&fontColor=00ffc8&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20&descSize=18&descColor=a0ffd6&descAlignY=58&animation=fadeIn" width="100%" />
 
-Web developer
--------------
-<img align="right" alt="coding_gif" width="400"  src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
-Started since 2022
-
-* 🌍  I'm based in Senegal , Dakar
-* ✉️  You can contact me at [biranenini6762@gmail.com](mailto:biranenini6762@gmail.com)
-* 🧠  I'm learning java!
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Fairyghost007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/birane-ndiaye-377765253" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
-
-
-<div ">
-<!--   <div><a  href="https://github.com/Fairyghost007">
-    <img style="width: 30%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairyghost007&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
-  </a></div> -->
-  <b>My GitHub Stats</b>
-<div ">
-<a href="http://www.github.com/Fairyghost007"><img style="width: 40%; height: auto;"  src="https://github-readme-stats.vercel.app/api?username=Fairyghost007&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=134e4a&hide_border=true&show_icons=true" alt="Fairyghost007's GitHub stats" /></a>      <a href="http://www.github.com/Fairyghost007"><img style="width: 40%; height: auto;"src="https://github-readme-streak-stats.herokuapp.com/?user=Fairyghost007&stroke=ffffff&background=134e4a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-  
 </div>
 
+---
+
+<img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="360" />
+
+### ✦ About Me
+
+```ts
+const birane = {
+  name     : "Birane Ndiaye",
+  role     : "Fullstack Developer",
+  location : "Dakar, Senegal 🌍",
+  learning : ["React Native", "Machine Learning"],
+  contact  : "biranenini6762@gmail.com"
+};
+```
+
+<br clear="right"/>
+
+---
+
+### ✦ Tech Stack
+
+<div align="center">
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
+#### Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
-  
 
+#### Tools & Design
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+</div>
 
+---
+
+### ✦ GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fairyghost007&show_icons=true&count_private=true&title_color=00ffc8&text_color=c9d1d9&icon_color=00ffc8&bg_color=0d1117&hide_border=true&rank_icon=github&show_icons=true" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Fairyghost007&stroke=00ffc8&background=0d1117&ring=00ffc8&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=00ffc8&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairyghost007&langs_count=8&layout=compact&title_color=00ffc8&text_color=c9d1d9&bg_color=0d1117&hide_border=true" />
+</div>
+
+---
+
+### ✦ Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fairyghost007&bg_color=0d1117&color=00ffc8&line=00ffc8&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+### ✦ Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Fairyghost007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fairyghost007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Birane%20Ndiaye-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/birane-ndiaye-377765253)
+[![Email](https://img.shields.io/badge/Email-biranenini6762@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biranenini6762@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+
+</div>
